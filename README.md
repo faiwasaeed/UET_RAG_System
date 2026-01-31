@@ -63,8 +63,7 @@ The **UET Prospectus RAG System** is an AI-powered question-answering system des
 
 ## 🏗️ Architecture
 
-[Architecture Diagram]<img width="5970" height="4170" alt="UET_RAG_Architecture_Infographic" src="https://github.com/user-attachments/assets/9284ba75-9a00-4548-80b3-26f5d5149c27" />
-
+![Architecture Diagram](docs/architecture_infographic.png)
 
 ### System Layers
 
